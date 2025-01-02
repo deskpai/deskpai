@@ -1,16 +1,13 @@
-## Hi there 👋
+# Deskpai
 
-<!--
-**deskpai/deskpai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Deskpai is an AI assistant for screenshot, screencast, audio/webcam recording, and image/audio/video playing and editing. It supports Text/Image/Audio Chat, Ollama integration, face swapping, OCR, PII removal etc.
 
-Here are some ideas to get you started:
+- OS: Windows and Linux
+- Tested in: Windows 10, 11 and Ubuntu 20, 22, 24
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sponsor and Contact
+
+Buy me a coffee: https://buymeacoffee.com/deskpai
+
+contact: [admin@deskpai.com](mailto:admin@deskpai.com)
+
