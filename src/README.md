@@ -43,7 +43,7 @@ contact: [admin@deskpai.com](mailto:admin@deskpai.com)
 
 - Face Swapping
 
-![Video Player/Editor](img/ss1.png)
+![Face Swapping](img/ss1.png)
 
 - Video Record/Play/Edit
 
@@ -51,5 +51,9 @@ contact: [admin@deskpai.com](mailto:admin@deskpai.com)
 
 - Audio Record/Play/Edit
 
-![Video Player/Editor](img/ss3.png)
+![Audio Player/Editor](img/ss3.png)
+
+- LLM/Image Chat
+
+![Chat with LLM](img/ss4.png)
 
