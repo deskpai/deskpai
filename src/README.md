@@ -55,5 +55,11 @@ contact: [admin@deskpai.com](mailto:admin@deskpai.com)
 
 ### LLM/Image Chat
 
+#### DeepSeek V3
+
 ![Chat with LLM](img/ss4.png)
+
+#### Multiturn Chat
+
+![Chat with LLM](img/ss5.png)
 
