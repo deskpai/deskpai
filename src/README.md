@@ -16,7 +16,7 @@ contact: [admin@deskpai.com](mailto:admin@deskpai.com)
 
 ### Linux
 
-- Download `deskpai.deb` from [here!](https://github.com/deskpai/deskpai/releases/download/v1.0.0/deskpai.deb)
+- Download `deskpai.deb` from [here!](https://cms.deskpai.com/download)
 - Run `sudo apt install ./deskpai.deb` to install it!
 
 **YouTube video instructions**
