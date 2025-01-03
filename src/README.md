@@ -41,19 +41,19 @@ contact: [admin@deskpai.com](mailto:admin@deskpai.com)
 
 ## Screenshot
 
-- Face Swapping
+### Face Swapping
 
 ![Face Swapping](img/ss1.png)
 
-- Video Record/Play/Edit
+### Video Record/Play/Edit
 
 ![Video Player/Editor](img/ss2.png)
 
-- Audio Record/Play/Edit
+### Audio Record/Play/Edit
 
 ![Audio Player/Editor](img/ss3.png)
 
-- LLM/Image Chat
+### LLM/Image Chat
 
 ![Chat with LLM](img/ss4.png)
 
