@@ -5,6 +5,8 @@ Deskpai is an AI assistant for screenshot, screencast, audio/webcam recording, a
 - OS: Windows and Linux
 - Tested in: Windows 10, 11 and Ubuntu 20, 22, 24
 
+(We are still under active development so the information below is subject to changes.)
+
 ## Sponsor and Contact
 
 Buy me a coffee: https://buymeacoffee.com/deskpai
@@ -71,7 +73,7 @@ All software open-sourced by Deskpai use DOSL-1.0 License.
 ### Key Features of DOSL-1.0
 
 - Freedom to use, modify, and distribute like MIT/BSD.
-- Mandatory README inclusion of https://www.deskpai.com in a visible section.
+- Mandatory README inclusion of https://www.deskpai.com in a visible section and a copy of LICENSE in software root directory.
 - No branding misuse (e.g., cannot falsely claim official Deskpai support).
 - Simple and enforceable attribution clause.
 
