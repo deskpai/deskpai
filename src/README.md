@@ -16,7 +16,7 @@ contact: [admin@deskpai.com](mailto:admin@deskpai.com)
 
 ### Linux
 
-- Download `deskpai.deb` from [here!](https://cms.deskpai.com/download)
+- Download `deskpai.deb` from [here!](https://share.deskpai.com/download)
 - Run `sudo apt install ./deskpai.deb` to install it!
 
 **YouTube video instructions**
@@ -30,8 +30,8 @@ contact: [admin@deskpai.com](mailto:admin@deskpai.com)
 - Swtich from Wayland to XOrg: https://www.youtube.com/watch?v=4pnxduM9daE
 
 **Support websites**
-- HomePage: https://deskpai.com (Please register here: https://cms.deskpai.com/accounts/signup/)
-- Media site: https://cms.deskpai.com
+- HomePage: https://deskpai.com (Please register here: https://share.deskpai.com/accounts/signup/)
+- Media site: https://share.deskpai.com
 
 
 
