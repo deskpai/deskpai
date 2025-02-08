@@ -63,3 +63,15 @@ contact: [admin@deskpai.com](mailto:admin@deskpai.com)
 
 ![Chat with LLM](img/ss5.png)
 
+
+## License
+
+All software open-sourced by Deskpai use DOSL-1.0 License.
+
+### Key Features of DOSL-1.0
+
+- Freedom to use, modify, and distribute like MIT/BSD.
+- Mandatory README inclusion of https://www.deskpai.com in a visible section.
+- No branding misuse (e.g., cannot falsely claim official Deskpai support).
+- Simple and enforceable attribution clause.
+
