@@ -1,5 +1,7 @@
 # Deskpai
 
+(under active development. please stay tuned....)
+
 Deskpai is an AI assistant for screenshot, screencast, audio/webcam recording, and image/audio/video playing and editing. It supports Text/Image/Audio Chat, Ollama integration, face swapping, OCR, PII removal etc.
 
 - OS: Windows and Linux
